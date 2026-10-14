@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "scalelog": {
+    "repo": "https://github.com/jimmy-jose/scalelog",
+    "target": "scalelog-fawn.vercel.app/"
     }
   },
   "openrepos.sh": {},
